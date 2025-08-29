@@ -80,5 +80,5 @@ Uncovers trends in terrain, accessibility, and tourism capacity by region and re
   4. Help explain summary trends and validate aggregated metrics with raw data.**
 
 ### 6.	Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Show what the dashboard looks like. - ![Alt text](https://github.com/KishoreKonkena/Spotify-Dashboard/blob/main/Screenshot%202025-08-29%20213924.png)
 Example: ![Dashboard Preview](https://github.com/KishoreKonkena/Spotify-Dashboard/blob/main/Screenshot%202025-08-29%20213924.png).
