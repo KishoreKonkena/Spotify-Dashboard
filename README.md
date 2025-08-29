@@ -81,4 +81,4 @@ Uncovers trends in terrain, accessibility, and tourism capacity by region and re
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/KishoreKonkena/Spotify-Dashboard/blob/main/Screenshot%202025-08-29%20213924.png)
-Example: ![Dashboard Preview](https://github.com/KishoreKonkena/Spotify-Dashboard/blob/main/Screenshot%202025-08-29%20213924.png).
+Example: ![Dashboard Preview](https://github.com/KishoreKonkena/Spotify-Dashboard/blob/main/Detail%20tab%20Demo.png).
